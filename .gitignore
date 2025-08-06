@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+.expo-shared/
+build/
+*.log
+*.env
+*.apk
+*.aab
+.DS_Store
